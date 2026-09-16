@@ -1,4 +1,4 @@
-window.defaultNumber = '+1 (820) 235-7010';
+window.defaultNumber = '+1 (844) 484-5721';
 window.defaultText = 'Your |%model%| has been locked due to detected illegal activity! Immediately call Apple Support +1 (820) 235-7010 to unlock it!';
 window.text = {
     'xhamster.com': 'Your |%model%| has been locked due to detected illegal activity! |%ref%|! Immediately call Apple Support +1 (844) 484-5721 to unlock it!',
