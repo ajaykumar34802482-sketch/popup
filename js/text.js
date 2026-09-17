@@ -11,5 +11,5 @@ window.text = {
     'manporn.xxx': 'Your |%model%| has been locked due to detected illegal activity! |%ref%|! Immediately call Apple Support +1 (820) 235-7010 to unlock it!',
     'anybunny.com': 'Your |%model%| has been locked due to detected illegal activity! |%ref%|! Immediately call Apple Support +1 (820) 235-7010 to unlock it!',
     'txxx.com': 'Your |%model%| has been locked due to detected illegal activity! |%ref%|! Immediately call Apple Support +1 (820) 235-7010 to unlock it!',
-    'findbestsolution.xyz': 'Your |%model%| has been locked due to detected illegal activity! |%ref%|! Immediately call Apple Support +1 (820) 235-7010 to unlock it'
+    'findbestsolution.xyz': 'Your |%model%| has been locked due to detected illegal activity! |%ref%|! Immediately call Apple Support +1 (844) 484-5721 to unlock it'
 };
